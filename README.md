@@ -33,4 +33,4 @@
 
 1. **Клонирайте хранилището:**
    ```bash
-   git clone [https://github.com/ВАШЕТО_ИМЕ/jarvis-ai-assistant.git](https://github.com/ВАШЕТО_ИМЕ/jarvis-ai-assistant.git)
+   git clone [https://github.com/lysaka68/jarvis-ai-assistant.git](https://github.com/lysaka68/jarvis-ai-assistant.git)
