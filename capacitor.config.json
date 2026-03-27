@@ -1,0 +1,6 @@
+{
+  "appId": "com.lyudmil.jarvis.public",
+  "appName": "Джарвис",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
